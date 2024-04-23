@@ -1,0 +1,17 @@
+q1. a, (6.5)
+
+q2. c
+(Firstline:
+Last line: ooooooooo)
+
+q3. d (Exit condition)
+
+q4. c (it prints a message to the console)
+
+q5. d 
+(
+  new_list = [ ]
+for course in courses:
+   if course.contains(“cfg”):
+      new_list.append(course)
+)

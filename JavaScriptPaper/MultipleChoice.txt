@@ -1,0 +1,10 @@
+q1. b (variable x = 5)
+
+q2. c (undefined)
+
+q3. c (RefferenceError: Cannot access 'x' before initilisation)
+
+q4. c (Array.isArray(variable))
+
+q5. c (checks if two values are both equal in value and type)
+

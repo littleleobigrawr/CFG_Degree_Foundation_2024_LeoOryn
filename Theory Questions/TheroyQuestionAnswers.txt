@@ -1,0 +1,54 @@
+q1. Explain the difference between a primary key and a foreign key.
+## there can onlly be one primary key for a table as it is a unique identifier and works like an ID. 
+## a foreign key is used to link up tables, a primary key and foreign key cannot be the same column.
+
+q2. What is the role of the `finally` block in Python exception handling and how would you use it
+## any code in a finally block should be excecuted regardless of any exceptions, a use case for this 
+## would be for closing files after opening.
+
+q3. Explain the difference between a commit and a push in Git.
+## a commit willchange the local repo, a push will change the remote repo.
+
+q4. Explain the difference between undefined and null in JavaScript
+## a null value is a falsey value, a undefined vale is unknown and not definable. 
+
+q5.Provide examples of two web APIs and describe their functions.
+## example 1: spotify API; api allows the programmer to insets a spotify playlist on their desired webpage.
+## example 2: twitter API; this allows the programmer to integrate a twitter feed into a website. 
+
+q6. Describe four tasks in the role of the Product Owner in Agile 
+development
+## sprint planning
+## sprint reviews
+## sprint retrospectives
+## team management
+## optimise proiduct backlog
+## project management 
+
+q7. Name two types of SQL joins and provide an example scenario for 
+each
+## cross-join; 
+  ## use-case = if you have 2 seprate tables for customers and customerDetails, 
+  ## cross join can combine all rows freom tweo table. 
+
+## left join;
+  ## use-case = if you have a table for customer orders and customer details and
+  ## want to receive orders with the corresponding customer details. This join will 
+  ## get all rows from the left and matching tables from the right.
+
+
+q8. Explain the difference between mutable and immutable data types 
+in Python, provide an example of each.
+## mutable data types can change their data/values, immuatble data will not allow this. 
+
+q9. What is the difference between synchronous and asynchronous 
+functions?
+## an async function can perform its task without needing to rely on any other factors, 
+## sync functions will react depending on the output of the operation before it
+
+q10. Describe four differences between agile and waterfall software 
+development methodologies.
+## waterfall software methodologies usually have a longer timeframe, agile has a shorter timeframe.
+## waterfall takes longer as there are usually more requirements,
+## agile allows for the project to be ddelivered and reviewed swifter
+## agile development uses frequestin communication, waterfall uses more formal means of communication which can slow a projects progress.
